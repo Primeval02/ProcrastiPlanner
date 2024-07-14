@@ -9,6 +9,3 @@
 | Homework Number | Description                                             |
 |-----------------|---------------------------------------------------------|
 | **schedule.php**   | The dynamic scheduling algorithm I developed to organize the day based on a priorty queue of tasks |
-| **HW02**        | Calculator to show how long to pay off a balance given user APR |
-| **HW03**        | Mock taxi fare calculator                                |
-| **HW05**        | Which card wins (uses friend functions)  
